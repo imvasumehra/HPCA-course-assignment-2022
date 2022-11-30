@@ -7,8 +7,8 @@ Contained are two folders:
 Each folder contains two sub-folders, a Makefile, and a main program.
 * Makefile: Contains commands necessary to compile, generate inputs, and run the program.
 * data folder: Contains program that generates input, and will contain input once generated.
-* header folder: Files containing the function that performs the operation. Modify the files in this folder.
-* main.cpp: Program that takes inputs and executes the functions. DO NOT MODIFY THIS.
+* header folder: Files containing the function that performs the operation.
+* main.cpp: Program that takes inputs and executes the functions.
 
 Navigate to each folder to begin setting up the system.
 Inside each folder do the following:
